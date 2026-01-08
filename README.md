@@ -27,5 +27,5 @@ El archivo principal `proyectofinalvc.ipynb` está estructurado en 6 secciones l
 
 ## Instalación y Requisitos
 
-El proyecto utiliza **PyTorch** con **FastAI** para la clasificación y **Ultralytics** para la detección.
+El proyecto utiliza **PyTorch** con **FastAI** para la clasificación y **Ultralytics** o Mediapipe (según el script) para la detección.
 
