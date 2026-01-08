@@ -1,0 +1,13 @@
+# Ignorar el entorno virtual completo
+venv_gestos/
+venv/
+env/
+
+# Ignorar archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Ignorar modelos muy pesados (opcional, ver nota abajo)
+*.pkl
+*.pt
+*.pth
