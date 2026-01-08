@@ -1,4 +1,5 @@
 # Sistema de Reconocimiento de Gestos en Tiempo Real
+MODELOS EN: https://drive.google.com/file/d/1E4KEBXoFKHbPzPg1Jlvz9tyIE4c3dFhO/view?usp=drive_link
 
 >  Un estudio comparativo y una implementación de pipeline de Deep Learning de dos etapas (Detección + Clasificación).
 <img width="1269" height="1001" alt="Captura de pantalla 2026-01-04 190131" src="https://github.com/user-attachments/assets/d943c853-91fc-4408-bb77-734404168d28" />
